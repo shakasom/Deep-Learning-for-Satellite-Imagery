@@ -9,8 +9,7 @@ This repository holds some personal projects in applying deep learning to satell
 
 
 ## Land Use Classification
-1. Austin Zoning Satellite Images
-- How to classify the zoning of satellite pictures of the city of Austin?
+1. Austin Zoning Satellite Images - How to classify the zoning of satellite pictures of the city of Austin?
 
 ![Zoning Code Sample](https://github.com/shakasom/Deep-Learning-for-Satellite-Imagery/blob/master/zoning.png)
 
