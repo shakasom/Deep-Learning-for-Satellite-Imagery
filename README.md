@@ -1,14 +1,14 @@
 # Deep-Learning-for-Satellite-Imagery
 
-This repository holds some personal projects in applying deep learning to satellite imagery(Remote Sensing). My interest is in Land Cover/Land use applications and object detecion.
-
-## Land Cover
+This repository holds some personal projects in applying deep learning to satellite imagery/Remote Sensing. My interest is in Land Cover/Land use applications and object detecion.
 
 
 
 
 
-## Land Use Classification
+
+
+## Land Use / Land Cover Classification
 1. Austin Zoning Satellite Images - How to classify the zoning of satellite pictures of the city of Austin?
 
 ![Zoning Code Sample](https://github.com/shakasom/Deep-Learning-for-Satellite-Imagery/blob/master/zoning.png)
